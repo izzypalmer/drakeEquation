@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DrakeEquation.iml" filepath="$PROJECT_DIR$/DrakeEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drakeEquation.iml" filepath="$PROJECT_DIR$/drakeEquation.iml" />
     </modules>
   </component>
 </project>
